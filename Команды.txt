@@ -1,0 +1,5 @@
+python -m venv venv
+venv\Scripts\activate
+pip install telebot
+pip install telethon
+python main.py
